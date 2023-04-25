@@ -1,3 +1,6 @@
 *{
     margin: 0px;
 }
+fieldset{
+    border: none;
+}
